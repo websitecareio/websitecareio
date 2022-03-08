@@ -1,3 +1,7 @@
+# I support Ukraine, if you dont. FUCK OF!
+
+![I support Ukraine](https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/255px-Flag_of_Ukraine.svg.png)
+
 - 👋 Hi, I’m @websitecareio
 - 👀 I’m interested in ... Developement, Servers, Gaming, Gardening
 - 🌱 I’m currently learning ... Life
