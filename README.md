@@ -1,4 +1,4 @@
-# I support Ukraine, if you dont. FUCK OF!
+# I support Ukraine, if you don't dont use my stuff. 
 
 ![I support Ukraine](https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/255px-Flag_of_Ukraine.svg.png)
 
