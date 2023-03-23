@@ -2,11 +2,10 @@
 
 ![I support Ukraine](https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/255px-Flag_of_Ukraine.svg.png)
 
-- 👋 Hi, I’m @websitecareio
-- 👀 I’m interested in ... Developement, Servers, Gaming, Gardening
-- 🌱 I’m currently learning ... Life
-- 💞️ I’m looking to collaborate on ... Don´t know? :) 
-- 📫 How to reach me ... support@websitecare.io
+Hi! My name is Kim and I am a developer from Denmark who primarily works with WordPress sites. 
+My clients are anything from startups to large companies. My daily work is mostly bugfixes and not much auctual coding going on.
+
+
 
 <!---
 websitecareio/websitecareio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
